@@ -1,16 +1,18 @@
-# crypto_app_ui
+# Crypto App UI Animation 🤑🚀
+Feel free to fork, and give the repo a star if you like it 🤩
 
-A new Flutter project.
+## Preview 🌐
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/SolomonAbuh/Crypto-App-UI/assets/67615397/0bfcccbd-fb51-4a87-8b09-5c6be8b48888
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Getting Started 🚀
+
+1. Clone this repository.
+2. Run `flutter pub get` to install dependencies.
+3. Open up an emulator
+4. Run `flutter run`!
+
+Let's connect! on [Twitter](https://twitter.com/Solomon_dart) and [linkedin](https://www.linkedin.com/in/solomon-abuh/).
